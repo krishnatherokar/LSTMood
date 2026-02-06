@@ -34,7 +34,7 @@ model.compile(
 
 ## Accuracy
 
-![Accuracy](res\Accuracy.png)
+![Accuracy](res/Accuracy.png)
 
 ## Author
 [![KAGGLE](https://img.shields.io/badge/Kaggle-krishnatherokar-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/krishnatherokar/)
