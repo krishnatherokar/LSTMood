@@ -1,4 +1,7 @@
 # LSTMood
+Live Demo: [lstmood.streamlit.app](https://lstmood.streamlit.app/)
+
+Training: [Kaggle Notebook](https://www.kaggle.com/code/krishnatherokar/captcha-recognition)
 
 **LSTMood** is a deep learning-based sentiment analysis and mood detection project. It uses Long Short-Term Memory (LSTM) networks to capture the sentiment of the text.
 
